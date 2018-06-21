@@ -1,0 +1,49 @@
+SEATTLE OLD,SEATTLE NEW,SF OLD,SF NEW
+CAR PROWL,Larceny/Theft,LARCENY/THEFT,Larceny/Theft
+OTHER PROPERTY,Other Offenses,OTHER OFFENSES,Other Offenses
+BURGLARY,Burglary,NON-CRIMINAL,Non-Criminal
+VEHICLE THEFT,Vehicle Theft,ASSAULT,Assault
+PROPERTY DAMAGE,Vandalism,VEHICLE THEFT,Vehicle Theft
+ASSAULT,Assault,WARRANTS,Warrant Arrest
+FRAUD,Fraud,DRUG/NARCOTIC,Narcotics
+DISTURBANCE,Disorderly Conduct,SUSPICIOUS OCC,Non-Criminal
+THREATS,Other Offenses,MISSING PERSON,Missing Person
+STOLEN PROPERTY,Larceny/Theft,SECONDARY CODES,Other Offenses
+WARRANT ARREST,Warrant Arrest,WEAPON LAWS,Weapon-Related
+SHOPLIFTING,Larceny/Theft,ROBBERY,Robbery
+BIKE THEFT,Larceny/Theft,TRESPASS,Trespassing
+ROBBERY,Robbery,FRAUD,Fraud
+TRESPASS,Trespassing,DRUNKENNESS,Disorderly Conduct
+NARCOTICS,Narcotics,KIDNAPPING,Kidnapping
+BURGLARY-SECURE PARKING-RES,Burglary,PROSTITUTION,Prostitution
+MAIL THEFT,Larceny/Theft,DRIVING UNDER THE INFLUENCE,DUI
+TRAFFIC,Non-Criminal,ARSON,Arson
+PROSTITUTION,Prostitution,RUNAWAY,Missing Person
+DISPUTE,Dispute,LIQUOR LAWS,Liquor Violation
+LOST PROPERTY,Non-Criminal,DISORDERLY CONDUCT,Disorderly Conduct
+COUNTERFEIT,Forgery/Counterfeiting,FORGERY/COUNTERFEITING,Forgery/Counterfeiting
+PICKPOCKET,Larceny/Theft,VANDALISM,Vandalism
+WEAPON,Weapon-Related,SUICIDE,Suicide
+ANIMAL COMPLAINT,Non-Criminal,FAMILY OFFENSES,Dispute
+THEFT OF SERVICES,Larceny/Theft,EMBEZZLEMENT,Embezzlement
+VIOLATION OF COURT ORDER,Other Offenses,STOLEN PROPERTY,Larceny/Theft
+INJURY,Non-Criminal,EXTORTION,Other Offenses
+FORGERY,Forgery/Counterfeiting,BURGLARY,Burglary
+EMBEZZLE,Embezzlement,LOITERING,Disorderly Conduct
+LIQUOR VIOLATION,Liquor Violation,GAMBLING,Other Offenses
+OBSTRUCT,Other Offenses,BRIBERY,Bribery
+RECOVERED PROPERTY,Non-Criminal,PORNOGRAPHY/OBSCENE MAT,Pornography/Obscenity
+DUI,DUI,,
+ILLEGAL DUMPING,Other Offenses,,
+RECKLESS BURNING,Arson,,
+FALSE REPORT,Non-Criminal,,
+BIAS INCIDENT,Other Offenses,,
+FIREWORK,Other Offenses,,
+PURSE SNATCH,Larceny/Theft,,
+HOMICIDE,Homicide,,
+ELUDING,Missing Person,,
+[INC - CASE DC USE ONLY],Other Offenses,,
+PUBLIC NUISANCE,Disorderly Conduct,,
+ESCAPE,Missing Person,,
+PORNOGRAPHY,Pornography/Obscenity,,
+DISORDERLY CONDUCT,Disorderly Conduct,,
